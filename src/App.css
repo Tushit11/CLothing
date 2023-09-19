@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  max-width: 100%;
+  font-family: "Lato", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+.App *{
+  font-family: "Lato", sans-serif;
+  font-family: "Poppins", sans-serif; 
+}
